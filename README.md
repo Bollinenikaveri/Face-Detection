@@ -18,6 +18,7 @@ It is a machine learning based approach where a cascade function is trained from
 ![image](https://github.com/user-attachments/assets/5968c621-8e7a-4ba3-92d4-689bb2d3c94b)
 
 
+
 The algorithm has four stages:
 
 1.Haar Feature Selection: Haar features are calculated in the subsections of the input image. The difference between the sum of pixel intensities of adjacent rectangular regions is calculated to differentiate the subsections of the image. A large number of haar-like features are required for getting facial features.
