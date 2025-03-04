@@ -15,7 +15,6 @@ We will explore both face detectors in this tutorial.
 
 Haar Cascade Classifier
 It is a machine learning based approach where a cascade function is trained from a lot of positive (images with face) and negative images (images without face). The algorithm is proposed by Paul Viola and Michael Jones.
-![image](https://github.com/user-attachments/assets/5968c621-8e7a-4ba3-92d4-689bb2d3c94b)
 
 
 
